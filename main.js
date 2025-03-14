@@ -1,8 +1,8 @@
-// main.js
-import "./style.css";
-import imagePaths from "./screenshots.json";
+document.addEventListener("DOMContentLoaded", async () => {
+  const response = await fetch("./screenshots.json");
+  if (!response.ok) throw new Error("Failed to load screenshots.json");
 
-document.addEventListener("DOMContentLoaded", () => {
+  const imagePaths = await response.json();
   // Get existing elements from the DOM
   const counterElement = document.querySelector(".counter");
   const gridContainer = document.getElementById("imageGrid");

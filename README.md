@@ -1,6 +1,6 @@
 # ScamWatch
 
-> "We"" is actually _me_, Cookie. I'm not quite organised, yet, jumping between actively analysing scam networks and writing a pre-installation tool. Stay tuned.
+> "We" is actually _me_, Cookie. I'm not quite organised, yet, jumping between actively analysing scam networks and writing a pre-installation tool. Stay tuned.
 
 ## Exposing a Scam Network in Real Time
 

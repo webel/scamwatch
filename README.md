@@ -1,69 +1,37 @@
-# Screenshot Grid Setup Instructions
+# ScamWatch
 
-Follow these steps to get the screenshot grid up and running:
+> "We"" is actually _me_, Cookie. I'm not quite organised, yet, jumping between actively analysing scam networks and writing a pre-installation tool. Stay tuned.
 
-## Prerequisites
+## Exposing a Scam Network in Real Time
 
-- Node.js (v14 or newer)
-- npm or yarn
+We are in the trenches. **ScamWatch** is not just another passive database of phishing sites—it’s an active effort to document, analyze, and disrupt a scam network that is at peak operation, consistently deploying new domains in an attempt to evade detection. This network is alive and adapting, and so are we.
 
-## Setup Steps
+We are pushing real-time evidence, capturing their tactics before they change, and ensuring their infrastructure is flagged, blacklisted, and ultimately dismantled.
 
-1. Create a new project directory and navigate to it:
+## What We're Doing
 
-```bash
-mkdir screenshot-grid
-cd screenshot-grid
-```
+- **Tracking and monitoring** newly deployed scam websites linked to a malicious infrastructure.
+- **Capturing screenshots** and metadata before the domains are taken down or changed.
+- **Connecting the dots** to expose the network behind these fraudulent operations.
+- **Pushing for blacklisting** by reporting findings to cybersecurity authorities and registrars.
+- **Open collaboration**—anyone can contribute evidence, help analyze, and take action.
 
-2. Create the files in your project with the contents provided in the code artifacts:
+## Why This Matters
 
-   - `index.html` - Main HTML file
-   - `main.js` - JavaScript entry point
-   - `style.css` - CSS styling
-   - `vite.config.js` - Vite configuration
-   - `package.json` - Project dependencies
+These scams aren’t just a nuisance. They exploit victims through fake task-based earnings schemes, phishing pages, and financial fraud. By acting fast and sharing data openly, we aim to disrupt the cycle and get these domains shut down before they can do more harm.
 
-3. Make sure you have the following directory structure:
+## How You Can Help
 
-```
-screenshot-grid/
-├── index.html
-├── main.js
-├── style.css
-├── vite.config.js
-├── package.json
-└── screenshot_extensive/
-    ├── bitkauer.cc_.png
-    ├── bitkuares.cc_.png
-    ├── bitkunpl.cc_.png
-    ├── bitkuuber.cc_.png
-    └── eocpumfvb.com_.png
-```
+- **Report new scam sites**: Open an issue or submit findings via PR.
+- **Help with research**: Investigate connections between domains and infrastructure.
+- **Contribute automation tools**: Improve our tracking and detection capabilities.
+- **Spread awareness**: Share our findings to prevent more victims.
 
-4. Install the dependencies:
+## Get Involved
 
-```bash
-npm install
-```
+📌 **Submit a scam report:** [GitHub Issues](https://github.com/webel/scamwatch/issues)  
+📌 **Join the discussion:** Engage with us on GitHub
+📌 **Report abuse to authorities:** [See the list of reporting agencies](https://github.com/webel/scamwatch/blob/main/REPORTING.md)
 
-5. Start the development server:
+We are at the beginning of this fight, but we're not waiting for the perfect moment—we're taking action now.
 
-```bash
-npm run dev
-```
-
-6. The application should automatically open in your browser. If it doesn't, navigate to the URL shown in your terminal (typically http://localhost:5173/).
-
-## Features
-
-- Responsive grid layout that adjusts based on screen size
-- Image thumbnails with captions showing the filename
-- Click on any image to see it in full size
-- Click anywhere on the full-size image to close it
-
-## Customization
-
-- Adjust the grid column size in the CSS by modifying the `minmax(300px, 1fr)` value
-- Change the thumbnail height by modifying the `height: 200px` property
-- Add more images by updating the `imagePaths` array in `main.js`

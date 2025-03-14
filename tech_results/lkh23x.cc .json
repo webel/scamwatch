@@ -1,0 +1,9 @@
+{
+    "url": "lkh23x.cc ",
+    "success": false,
+    "redirected_url": null,
+    "headers": {},
+    "technologies": {},
+    "error": "Both HTTPS and HTTP failed: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=134.0.6998.88)\nStacktrace:\n#0 0x561e00021a1a <unknown>\n#1 0x561dffad9390 <unknown>\n#2 0x561dffad0518 <unknown>\n#3 0x561dffac0a39 <unknown>\n#4 0x561dffac273d <unknown>\n#5 0x561dffac0dce <unknown>\n#6 0x561dffac0775 <unknown>\n#7 0x561dffac0449 <unknown>\n#8 0x561dffabe159 <unknown>\n#9 0x561dffabea2a <unknown>\n#10 0x561dffadc829 <unknown>\n#11 0x561dffb77d85 <unknown>\n#12 0x561dffb50bd2 <unknown>\n#13 0x561dffb7707b <unknown>\n#14 0x561dffb509a3 <unknown>\n#15 0x561dffb1c60e <unknown>\n#16 0x561dffb1ddd1 <unknown>\n#17 0x561dfffe7ddb <unknown>\n#18 0x561dfffebcbc <unknown>\n#19 0x561dfffcf392 <unknown>\n#20 0x561dfffec834 <unknown>\n#21 0x561dfffb31ef <unknown>\n#22 0x561e00010038 <unknown>\n#23 0x561e00010216 <unknown>\n#24 0x561e00020896 <unknown>\n#25 0x7f44c6e471c4 <unknown>\n | Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=134.0.6998.88)\nStacktrace:\n#0 0x561e00021a1a <unknown>\n#1 0x561dffad9390 <unknown>\n#2 0x561dffad0518 <unknown>\n#3 0x561dffac0a39 <unknown>\n#4 0x561dffac273d <unknown>\n#5 0x561dffac0dce <unknown>\n#6 0x561dffac0775 <unknown>\n#7 0x561dffac0449 <unknown>\n#8 0x561dffabe159 <unknown>\n#9 0x561dffabea2a <unknown>\n#10 0x561dffadc829 <unknown>\n#11 0x561dffb77d85 <unknown>\n#12 0x561dffb50bd2 <unknown>\n#13 0x561dffb7707b <unknown>\n#14 0x561dffb509a3 <unknown>\n#15 0x561dffb1c60e <unknown>\n#16 0x561dffb1ddd1 <unknown>\n#17 0x561dfffe7ddb <unknown>\n#18 0x561dfffebcbc <unknown>\n#19 0x561dfffcf392 <unknown>\n#20 0x561dfffec834 <unknown>\n#21 0x561dfffb31ef <unknown>\n#22 0x561e00010038 <unknown>\n#23 0x561e00010216 <unknown>\n#24 0x561e00020896 <unknown>\n#25 0x7f44c6e471c4 <unknown>\n",
+    "server_info": {}
+}

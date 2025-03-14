@@ -1,0 +1,13 @@
+{
+    "url": "glohashwp.com ",
+    "success": true,
+    "redirected_url": "https://glohashwp.com/",
+    "headers": {},
+    "technologies": {
+        "cdn": [
+            "Cloudflare"
+        ]
+    },
+    "error": null,
+    "server_info": {}
+}

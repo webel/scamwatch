@@ -1,0 +1,9 @@
+{
+    "url": "parilondwoix.cc ",
+    "success": false,
+    "redirected_url": null,
+    "headers": {},
+    "technologies": {},
+    "error": "Both HTTPS and HTTP failed: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=134.0.6998.88)\nStacktrace:\n#0 0x561dfc594a1a <unknown>\n#1 0x561dfc04c390 <unknown>\n#2 0x561dfc043518 <unknown>\n#3 0x561dfc033a39 <unknown>\n#4 0x561dfc03573d <unknown>\n#5 0x561dfc033dce <unknown>\n#6 0x561dfc033775 <unknown>\n#7 0x561dfc033449 <unknown>\n#8 0x561dfc031159 <unknown>\n#9 0x561dfc031a2a <unknown>\n#10 0x561dfc04f829 <unknown>\n#11 0x561dfc0ead85 <unknown>\n#12 0x561dfc0c3bd2 <unknown>\n#13 0x561dfc0ea07b <unknown>\n#14 0x561dfc0c39a3 <unknown>\n#15 0x561dfc08f60e <unknown>\n#16 0x561dfc090dd1 <unknown>\n#17 0x561dfc55addb <unknown>\n#18 0x561dfc55ecbc <unknown>\n#19 0x561dfc542392 <unknown>\n#20 0x561dfc55f834 <unknown>\n#21 0x561dfc5261ef <unknown>\n#22 0x561dfc583038 <unknown>\n#23 0x561dfc583216 <unknown>\n#24 0x561dfc593896 <unknown>\n#25 0x7f3f212b01c4 <unknown>\n | Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=134.0.6998.88)\nStacktrace:\n#0 0x561dfc594a1a <unknown>\n#1 0x561dfc04c390 <unknown>\n#2 0x561dfc043518 <unknown>\n#3 0x561dfc033a39 <unknown>\n#4 0x561dfc03573d <unknown>\n#5 0x561dfc033dce <unknown>\n#6 0x561dfc033775 <unknown>\n#7 0x561dfc033449 <unknown>\n#8 0x561dfc031159 <unknown>\n#9 0x561dfc031a2a <unknown>\n#10 0x561dfc04f829 <unknown>\n#11 0x561dfc0ead85 <unknown>\n#12 0x561dfc0c3bd2 <unknown>\n#13 0x561dfc0ea07b <unknown>\n#14 0x561dfc0c39a3 <unknown>\n#15 0x561dfc08f60e <unknown>\n#16 0x561dfc090dd1 <unknown>\n#17 0x561dfc55addb <unknown>\n#18 0x561dfc55ecbc <unknown>\n#19 0x561dfc542392 <unknown>\n#20 0x561dfc55f834 <unknown>\n#21 0x561dfc5261ef <unknown>\n#22 0x561dfc583038 <unknown>\n#23 0x561dfc583216 <unknown>\n#24 0x561dfc593896 <unknown>\n#25 0x7f3f212b01c4 <unknown>\n",
+    "server_info": {}
+}

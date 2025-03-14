@@ -1,0 +1,26 @@
+{
+    "url": "agencjawhitesr.cc",
+    "success": true,
+    "redirected_url": "https://agencjawhitesu.cc/#/login",
+    "headers": {
+        "status_code": 200,
+        "headers": {
+            "Date": "Thu, 13 Mar 2025 18:19:57 GMT",
+            "Content-Type": "text/html",
+            "Connection": "keep-alive",
+            "Last-Modified": "Tue, 14 May 2024 04:01:47 GMT",
+            "CF-Cache-Status": "DYNAMIC",
+            "Server": "cloudflare",
+            "CF-RAY": "91fd8ae48a9a2b72-LAX",
+            "Content-Encoding": "gzip"
+        }
+    },
+    "technologies": {},
+    "error": null,
+    "server_info": {
+        "server": "cloudflare",
+        "cloudflare": true,
+        "CF-Cache-Status": "DYNAMIC",
+        "CF-RAY": "91fd8ae48a9a2b72-LAX"
+    }
+}

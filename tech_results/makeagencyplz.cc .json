@@ -1,0 +1,13 @@
+{
+    "url": "makeagencyplz.cc ",
+    "success": true,
+    "redirected_url": "https://makeagencyplz.cc/#/pc/login",
+    "headers": {},
+    "technologies": {
+        "js_frameworks": [
+            "Vue.js"
+        ]
+    },
+    "error": null,
+    "server_info": {}
+}

@@ -1,0 +1,13 @@
+{
+    "url": "glohashose.com ",
+    "success": true,
+    "redirected_url": "https://glohashose.com/",
+    "headers": {},
+    "technologies": {
+        "cdn": [
+            "Cloudflare"
+        ]
+    },
+    "error": null,
+    "server_info": {}
+}
